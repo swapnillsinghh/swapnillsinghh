@@ -1,4 +1,6 @@
-# Swapnil Singh's Skills
+# ABOUT ME:
+
+#SWAPNIL SINGH
 
 ## Introduction
 Hello there! I'm Swapnil Singh, a student at KIIT University passionate about software development. Here's a glimpse of my skills and interests in various programming languages and technologies.
